@@ -6,6 +6,8 @@
     href: azure-sdk-overview.md
   - name: Developer Tools
     href: azure-tools.md 
+  - name: Libraries List
+    href: overview-index.md 
 - name: Quickstarts
   items: 
   - name: Python SDK
