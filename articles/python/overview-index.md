@@ -197,7 +197,7 @@ The below packages are all available on PyPI.
 | tox-monorepo                                     | tox-monorepo                                     | [0.1.2](https://pypi.org/project/tox-monorepo/0.1.2)                                     |                                                                                                        | 
 | uamqp                                            | uamqp                                            | [1.2.7](https://pypi.org/project/uamqp/1.2.7)                                            |                                                                                                        | 
 
-* These items have been developed according to the [Azure SDK unified design guidelines](https://azure.github.io/azure-sdk/general_introduction.html).
+\* These items have been developed according to the [Azure SDK unified design guidelines](https://azure.github.io/azure-sdk/general_introduction.html).
 
 
 # Contributing to this Index
